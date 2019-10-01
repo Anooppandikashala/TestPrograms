@@ -29,4 +29,4 @@ while(True):
     elif (choice == 5):
         quit(0)
     else:
-        print ("\tGive valid choice")
+        print ("\tGive a valid choice")
